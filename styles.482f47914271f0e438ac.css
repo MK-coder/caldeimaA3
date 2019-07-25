@@ -1,0 +1,1 @@
+body{background-color:#0ff;width:100%}.gridBox{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto;grid-template-areas:"deets pic"}.details{grid-area:deets}.pictures{grid-area:pic}@media only screen and (max-width:376px){.gridBox{display:block;width:100%}}
